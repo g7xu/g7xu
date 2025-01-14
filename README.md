@@ -21,7 +21,7 @@ Jason</a></h1>
 
 - 💬 Ask me about **Life in UCSD and Food**
 
-- 📫 How to reach me **g7xu@ucsd.edu*
+- 📫 How to reach me **g7xu@ucsd.edu**
 
 - 📄 Know about my experiences <a href="https://g7xu.github.io/assets/files/Guoxuan_Data_Science_resume.pdf" target="blank">Resume</a>
 
@@ -30,11 +30,19 @@ Jason</a></h1>
 #### Proficient
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 
 #### Beginner
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 ---
