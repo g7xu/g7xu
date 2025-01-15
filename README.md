@@ -41,6 +41,7 @@ Jason</a></h1>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Tesseract](https://img.shields.io/badge/Tesseract-%234B8BBE.svg?style=for-the-badge&logo=tesseract&logoColor=white)&nbsp;
 
 
 
