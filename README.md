@@ -60,6 +60,22 @@ Jason</a></h1>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
+<details>
+<summary>Item 1</summary>
+This is the content for Item 1.
+</details>
+
+<details>
+<summary>Item 2</summary>
+This is the content for Item 2.
+</details>
+
+<details>
+<summary>Item 3</summary>
+This is the content for Item 3.
+</details>
+
+
 Credit:
 - github template from [Saurabh Chavan](https://github.com/100rabhcsmc)
 - tech stack visualization from [Aditya Sunit Kanoi](https://github.com/Adityakanoi2001)
