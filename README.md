@@ -56,10 +56,6 @@ Jason</a></h1>
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
 Credit:
 - github template from [Saurabh Chavan](https://github.com/100rabhcsmc)
 - tech stack visualization from [Aditya Sunit Kanoi](https://github.com/Adityakanoi2001)
