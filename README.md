@@ -21,7 +21,7 @@ Jason</a></h1>
 
 - 💬 Ask me about **Life in UCSD and Food**
 
-- 📫 How to reach me **g7xu@ucsd.edu*
+- 📫 How to reach me **g7xu@ucsd.edu**
 
 - 📄 Know about my experiences <a href="https://g7xu.github.io/assets/files/Guoxuan_Data_Science_resume.pdf" target="blank">Resume</a>
 
@@ -35,6 +35,26 @@ Jason</a></h1>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+### 📁 &nbsp;Projects
+---
+<details>
+<summary><b>⭐ Spotlight Projects</b></summary>
+
+| Project Name | Description | Technologies | Link |
+|--------------|-------------|--------------|------|
+| Add your spotlight projects here | Description | Technologies | [GitHub](https://github.com/yourusername/project) |
+
+</details>
+
+<details>
+<summary><b>🔧 Building the Wheel</b></summary>
+
+| Project Name | Description | Technologies | Link |
+|--------------|-------------|--------------|------|
+| Product-Management-APP | A simple product management front-end code with React | React | [GitHub](https://github.com/g7xu/Product-Management-APP) |
+
+</details>
 
 ### ⚙️ &nbsp;GitHub Analytics
 ---
