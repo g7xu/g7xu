@@ -9,13 +9,13 @@ Jason</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I'm currently working in <a href="https://www.llmstrategies.com/" target="blank">LLM Strategy</a>
+- 🔭 I'm currently working as **AI Engineer** at <a href="https://www.gocadre.ai/" target="blank">Cadre AI</a>
 
-- 🌱 I'm currently Working on developing an automated data pipeline for extracting court case data.
+- 🌱 I'm currently working on making agents and MCP servers for traditional business.
 
 - 🤝 I'm available for freelancing.
 
-- 🌱 I'm currently learning LangChain
+- 🌱 I'm currently learning to be a full stack engineer
 <!-- 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
@@ -23,7 +23,7 @@ Jason</a></h1>
 
 - 📫 How to reach me **g7xu@ucsd.edu**
 
-- 📄 Know about my experiences <a href="https://g7xu.github.io/assets/files/Guoxuan_Data_Science_resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/g7xu/g7xu.github.io/blob/master/assets/files/Jason%20Xu%20Resume%20-%20SDE%20track.pdf" target="blank">Resume</a>
 
 ### 🛠 &nbsp;Tech Stack
 ---
@@ -49,14 +49,11 @@ Jason</a></h1>
 
 ### 📁 &nbsp;Projects
 ---
-<details>
-<summary><b>⭐ Spotlight Projects</b></summary>
+#### ⭐ Spotlight Projects
 
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
-| Add your spotlight projects here | Description | Technologies | [GitHub](https://github.com/yourusername/project) |
-
-</details>
+| Data_vis_LSUS | Lifespan Under the Sun: A static data visualization exploring how sunshine impacts life expectancy in US | Pandas, Jupyter Notebook | [GitHub](https://github.com/g7xu/Data_vis_LSUS) |
 
 <details>
 <summary><b>🔧 Building the Wheel</b></summary>
@@ -64,6 +61,15 @@ Jason</a></h1>
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
 | Product-Management-APP | A simple product management front-end code with React | React | [GitHub](https://github.com/g7xu/Product-Management-APP) |
+
+</details>
+
+<details>
+<summary><b>📊 Data Science</b></summary>
+
+| Project Name | Description | Technologies | Link |
+|--------------|-------------|--------------|------|
+| Data_vis_LSUS | Lifespan Under the Sun: A static data visualization exploring how sunshine impacts life expectancy in US | Pandas, Jupyter Notebook | [GitHub](https://github.com/g7xu/Data_vis_LSUS) |
 
 </details>
 
@@ -82,7 +88,7 @@ Credit:
 - github template from [Saurabh Chavan](https://github.com/100rabhcsmc)
 - tech stack visualization from [Aditya Sunit Kanoi](https://github.com/Adityakanoi2001)
 
-Last Edited on: 01/08/2024
+Last Edited on: 09/15/2025
 
 
 
