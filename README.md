@@ -54,6 +54,7 @@ Jason</a></h1>
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
 | Data_vis_LSUS | Lifespan Under the Sun: A static data visualization exploring how sunshine impacts life expectancy in US | Pandas, Jupyter Notebook | [GitHub](https://github.com/g7xu/Data_vis_LSUS) |
+| Dual-Lens | Data visualization that uses the same dataset to tell a truth and a lie, demonstrating deceptive vs earnest visualization techniques. Awarded top 5% project of class of 280 students | Jupyter Notebook | [GitHub](https://github.com/g7xu/Dual-Lens) |
 
 <details>
 <summary><b>🔧 Building the Wheel</b></summary>
@@ -70,6 +71,7 @@ Jason</a></h1>
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
 | Data_vis_LSUS | Lifespan Under the Sun: A static data visualization exploring how sunshine impacts life expectancy in US | Pandas, Jupyter Notebook | [GitHub](https://github.com/g7xu/Data_vis_LSUS) |
+| Dual-Lens | Data visualization that uses the same dataset to tell a truth and a lie, demonstrating deceptive vs earnest visualization techniques. Awarded top 5% project of class of 280 students | Jupyter Notebook | [GitHub](https://github.com/g7xu/Dual-Lens) |
 
 </details>
 
