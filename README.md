@@ -25,28 +25,6 @@ Jason</a></h1>
 
 - 📄 Know about my experiences <a href="https://github.com/g7xu/g7xu.github.io/blob/master/assets/files/Jason%20Xu%20Resume%20-%20SDE%20track.pdf" target="blank">Resume</a>
 
-### 🛠 &nbsp;Tech Stack
----
-#### Proficient
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-
-#### Beginner
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Tesseract](https://img.shields.io/badge/Tesseract-%234B8BBE.svg?style=for-the-badge&logo=tesseract&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-
-
-
 ### 📁 &nbsp;Projects
 ---
 #### ⭐ Spotlight Projects
@@ -75,22 +53,31 @@ Jason</a></h1>
 
 </details>
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🛠 &nbsp;Tech Stack
 ---
-<p align="center">
-  <a href="https://github.com/g7xu?tab=repositories">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=g7xu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/g7xu?tab=repositories">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=g7xu&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+#### Proficient
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
+
+#### Beginner
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Tesseract](https://img.shields.io/badge/Tesseract-%234B8BBE.svg?style=for-the-badge&logo=tesseract&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 Credit:
 - github template from [Saurabh Chavan](https://github.com/100rabhcsmc)
 - tech stack visualization from [Aditya Sunit Kanoi](https://github.com/Adityakanoi2001)
 
-Last Edited on: 09/15/2025
+Last Edited on: 09/19/2025
 
 
 
