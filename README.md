@@ -40,7 +40,7 @@ Jason</a></h1>
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
 | Product-Management-APP | Product management app with React | React | [GitHub](https://github.com/g7xu/Product-Management-APP) |
-| Task-Management-APP | Task management app with React | React, JavaScript, TypeScript | [GitHub](https://github.com/g7xu/Task-Management-APP) |
+| Task-Management-APP | Task management app with React | React | [GitHub](https://github.com/g7xu/Task-Management-APP) |
 
 </details>
 
