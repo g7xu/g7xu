@@ -33,14 +33,16 @@ Jason</a></h1>
 |--------------|-------------|--------------|------|
 | Data_vis_LSUS | Data visualization exploring how sunshine impacts life expectancy in US | Pandas, Jupyter Notebook | [GitHub](https://github.com/g7xu/Data_vis_LSUS) |
 | Dual-Lens | Data visualization demonstrating deceptive vs earnest techniques. Top 5% project in class | Jupyter Notebook | [GitHub](https://github.com/g7xu/Dual-Lens) |
+| SHOPPING-CART | Shopping cart application powered by React and Redux Toolkit | React, Redux Toolkit | [GitHub](https://github.com/g7xu/SHOPPING-CART) [Website](https://g7xu.dev/SHOPPING-CART/cart) |
 
 <details>
 <summary><b>🔧 Building the Wheel</b></summary>
 
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
-| Product-Management-APP | Product management app with React | React | [GitHub](https://github.com/g7xu/Product-Management-APP) |
-| Task-Management-APP | Task management app with React | React | [GitHub](https://github.com/g7xu/Task-Management-APP) |
+| Product-Management-APP | Product management app with React | React | [GitHub](https://github.com/g7xu/Product-Management-APP) [Website](https://g7xu.dev/Product-Management-APP/) |
+| Task-Management-APP | Task management app with React | React | [GitHub](https://github.com/g7xu/Task-Management-APP) [Website](https://g7xu.dev/Task-Management-APP/) |
+| SHOPPING-CART | Shopping cart application powered by React and Redux Toolkit | React, Redux Toolkit | [GitHub](https://github.com/g7xu/SHOPPING-CART) [Website](https://g7xu.dev/SHOPPING-CART/cart) |
 
 </details>
 
