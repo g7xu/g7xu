@@ -33,7 +33,7 @@ Jason</a></h1>
 |--------------|-------------|--------------|------|
 | I'm not sure, but... | User speak-aloud study exploring effective practices for novice data scientists | HCI | [GitHub](https://github.com/dstl-lab/Code-Comprehension-User-Study) [Website](https://g7xu.dev/Code-Comprehension-User-Study/) |
 | Dual-Lens | Data visualization demonstrating deceptive vs earnest techniques. Top 5% project in class | Jupyter Notebook | [GitHub](https://github.com/g7xu/Dual-Lens) |
-| SHOPPING-CART | Shopping cart application powered by React and Redux Toolkit | React, Redux Toolkit | [GitHub](https://github.com/g7xu/SHOPPING-CART) [Website](https://g7xu.dev/SHOPPING-CART/cart) |
+| SHOPPING-CART | Shopping cart application powered by React and Redux Toolkit | React, Redux Toolkit | [GitHub](https://github.com/g7xu/SHOPPING-CART) [Website](https://g7xu.dev/SHOPPING-CART) |
 
 <details>
 <summary><b>🔧 Building the Wheel</b></summary>
