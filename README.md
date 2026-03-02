@@ -32,8 +32,8 @@ Jason</a></h1>
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
 | I'm not sure, but... | User speak-aloud study exploring effective practices for novice data scientists | HCI | [GitHub](https://github.com/dstl-lab/Code-Comprehension-User-Study) [Website](https://g7xu.dev/Code-Comprehension-User-Study/) |
-| Dual-Lens | Data visualization demonstrating deceptive vs earnest techniques. Top 5% project in class | Jupyter Notebook | [GitHub](https://github.com/g7xu/Dual-Lens) |
 | SHOPPING-CART | Shopping cart application powered by React and Redux Toolkit | React, Redux Toolkit | [GitHub](https://github.com/g7xu/SHOPPING-CART) [Website](https://g7xu.dev/SHOPPING-CART) |
+| Secret Life of Blood Glucose | Interactive visualization explaining challenges faced by individuals with Type 2 Diabetes | Python, JavaScript, D3.js | [GitHub](https://github.com/g7xu/secret-life-of-blood-glucose) [Website](https://g7xu.dev/secret-life-of-blood-glucose/) |
 
 <details>
 <summary><b>🔧 Building the Wheel</b></summary>
@@ -54,6 +54,8 @@ Jason</a></h1>
 | Data_vis_LSUS | Data visualization exploring how sunshine impacts life expectancy in US | Pandas, Jupyter Notebook | [GitHub](https://github.com/g7xu/Data_vis_LSUS) |
 | Dual-Lens | Data visualization demonstrating deceptive vs earnest techniques. Top 5% project in class | Jupyter Notebook | [GitHub](https://github.com/g7xu/Dual-Lens) |
 | I'm not sure, but... | User speak-aloud study exploring effective practices for novice data scientists | HCI | [GitHub](https://github.com/dstl-lab/Code-Comprehension-User-Study) [Website](https://g7xu.dev/Code-Comprehension-User-Study/) |
+| Secret Life of Blood Glucose | Interactive visualization explaining challenges faced by individuals with Type 2 Diabetes | Python, JavaScript, D3.js | [GitHub](https://github.com/g7xu/secret-life-of-blood-glucose) [Website](https://g7xu.dev/secret-life-of-blood-glucose/) |
+| CellMaker_DataParser | Data parser that converts raw CellMarker data to JSON format. Used in production in [mygene.info](https://mygene.info/) | Python, Jupyter Notebook | [GitHub](https://github.com/g7xu/CellMaker_DataParser) |
 
 </details>
 
@@ -96,7 +98,7 @@ Credit:
 - github template from [Saurabh Chavan](https://github.com/100rabhcsmc)
 - tech stack visualization from [Aditya Sunit Kanoi](https://github.com/Adityakanoi2001)
 
-Last Edited on: 02/28/2026
+Last Edited on: 03/01/2026
 
 
 
