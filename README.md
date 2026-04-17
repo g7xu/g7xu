@@ -32,7 +32,7 @@ Jason</a></h1>
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
 | I'm not sure, but... | User speak-aloud study exploring effective practices for novice data scientists | HCI | [GitHub](https://github.com/dstl-lab/Code-Comprehension-User-Study) [Website](https://g7xu.dev/Code-Comprehension-User-Study/) |
-| SHOPPING-CART | Shopping cart application powered by React and Redux Toolkit | React, Redux Toolkit | [GitHub](https://github.com/g7xu/SHOPPING-CART) [Website](https://g7xu.dev/SHOPPING-CART) |
+| ICU Sepsis Decision Support | Full-stack web application providing ML-backed sepsis risk predictions for ICU patients | Django, AWS, scikit-learn | [GitHub](https://github.com/g7xu/icu-sepsis-decision-support) [Website](https://icu-sepsis-detect.g7xu.dev/) |
 | Secret Life of Blood Glucose | Interactive visualization explaining challenges faced by individuals with Type 2 Diabetes | Python, JavaScript, D3.js | [GitHub](https://github.com/g7xu/secret-life-of-blood-glucose) [Website](https://g7xu.dev/secret-life-of-blood-glucose/) |
 
 <details>
@@ -43,6 +43,16 @@ Jason</a></h1>
 | Product-Management-APP | Product management app with React | React | [GitHub](https://github.com/g7xu/Product-Management-APP) [Website](https://g7xu.dev/Product-Management-APP/) |
 | Task-Management-APP | Task management app with React | React | [GitHub](https://github.com/g7xu/Task-Management-APP) [Website](https://g7xu.dev/Task-Management-APP/) |
 | SHOPPING-CART | Shopping cart application powered by React and Redux Toolkit | React, Redux Toolkit | [GitHub](https://github.com/g7xu/SHOPPING-CART) [Website](https://g7xu.dev/SHOPPING-CART) |
+| guoxuan-devKit | Personal developer toolkit with shell utilities and setup scripts | Bash | [GitHub](https://github.com/g7xu/guoxuan-devKit) |
+
+</details>
+
+<details>
+<summary><b>🌐 Full-Stack Applications</b></summary>
+
+| Project Name | Description | Technologies | Link |
+|--------------|-------------|--------------|------|
+| ICU Sepsis Decision Support | Full-stack web application providing ML-backed sepsis risk predictions for ICU patients | Django, AWS, scikit-learn | [GitHub](https://github.com/g7xu/icu-sepsis-decision-support) [Website](https://icu-sepsis-detect.g7xu.dev/) |
 
 </details>
 
