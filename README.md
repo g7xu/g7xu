@@ -5,7 +5,9 @@ Guoxuan</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g7xu&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<img align="right" height="300" width="400" hspace="30" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse">
+<tr style="border:none">
+<td valign="middle" style="border:none">
 
 - 🔭 I'm currently interning as a **Software Engineer** at <a href="https://www.samsung.com/us/" target="blank">Samsung Electronics America</a>
 
@@ -23,6 +25,15 @@ Guoxuan</a></h1>
 - 📫 How to reach me **guoxuan.xu8@gmail.com**
 
 - 📄 Know about my experiences <a href="https://g7xu.dev/files/Jason%20Xu%20Resume%20-%20SDE%20track.pdf" target="blank">Resume</a>
+
+</td>
+<td valign="middle" width="430" align="center" style="border:none">
+
+<img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ### 📁 &nbsp;Projects
 ---
