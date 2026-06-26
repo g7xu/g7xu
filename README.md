@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://g7xu.github.io/" target="blank">
-Jason</a></h1>
-<h3 align="center">An undergraduate Data Science Student from University of California San Diego 🐼</h3>
+Guoxuan</a></h1>
+<h3 align="center">A Master's Computer Science Student at Stanford University 🌲</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g7xu&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -9,19 +9,20 @@ Jason</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I'm currently working as **AI Engineer** at <a href="https://www.gocadre.ai/" target="blank">Cadre AI</a>
+- 🔭 I'm currently interning as a **Software Engineer** at <a href="https://www.samsung.com/us/" target="blank">Samsung Electronics America</a>
 
-- 🌱 I'm currently working on building a trading capturing system using microservices and React.
+- 🌱 I'm currently building **agentic infrastructure and network systems**.
 
 - 🤝 I'm available for freelancing.
 
-- 🌱 I'm currently learning to be a full stack engineer
+- 🌱 I'm currently learning to be a full stack engineer and a startup founder
+
 <!-- 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
-- 💬 Ask me about **Life in UCSD and Tech Jobs**
+- 💬 Ask me about **life in UCSD, startups, and software engineering**
 
-- 📫 How to reach me **g7xu@ucsd.edu**
+- 📫 How to reach me **guoxuan.xu8@gmail.com**
 
 - 📄 Know about my experiences <a href="https://g7xu.dev/files/Jason%20Xu%20Resume%20-%20SDE%20track.pdf" target="blank">Resume</a>
 
@@ -108,7 +109,7 @@ Credit:
 - github template from [Saurabh Chavan](https://github.com/100rabhcsmc)
 - tech stack visualization from [Aditya Sunit Kanoi](https://github.com/Adityakanoi2001)
 
-Last Edited on: 03/01/2026
+Last Edited on: 06/25/2026
 
 
 
